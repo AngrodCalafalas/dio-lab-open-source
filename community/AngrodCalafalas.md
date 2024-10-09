@@ -16,4 +16,4 @@ Olá, sou Max Williams, enfermeiro e estou aqui para aprender mais sobre program
 
 ## 🔎 Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AngrodCalafalas&repo=Dio-fork&bg_color=F52&border_color=30A3DC&show_icons=true&icon_color=FDC&title_color=FFFF&text_color=FFF)](https://github.com/AngrodCalafalas/Dio-fork)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AngrodCalafalas&repo=dio-lab-open-source&bg_color=F52&border_color=30A3DC&show_icons=true&icon_color=FDC&title_color=FFFF&text_color=FFF)](https://github.com/AngrodCalafalas/dio-lab-open-source)
